@@ -1,0 +1,32 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".dart_tool": true,
+        ".idea": true,
+        ".vscode": true,
+        ".gitignore": true,
+        ".metadata": true,
+        "analysis_options.yaml": true,
+        "CHANGELOG.md": true,
+        "LICENSE": true,
+        "README.md": true,
+        "superchat.iml": true
+    },
+    "hide-files.files": [
+        ".dart_tool",
+        ".idea",
+        ".vscode",
+        ".gitignore",
+        ".metadata",
+        "analysis_options.yaml",
+        "CHANGELOG.md",
+        "LICENSE",
+        "README.md",
+        "superchat.iml"
+    ]
+}
